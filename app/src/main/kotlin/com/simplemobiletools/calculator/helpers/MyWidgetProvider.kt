@@ -12,7 +12,6 @@ import com.simplemobiletools.calculator.R
 import com.simplemobiletools.calculator.activities.MainActivity
 import com.simplemobiletools.calculator.extensions.config
 import com.simplemobiletools.commons.extensions.applyColorFilter
-import com.simplemobiletools.commons.extensions.setBackgroundColor
 import com.simplemobiletools.commons.extensions.setText
 
 class MyWidgetProvider : AppWidgetProvider(), Calculator {

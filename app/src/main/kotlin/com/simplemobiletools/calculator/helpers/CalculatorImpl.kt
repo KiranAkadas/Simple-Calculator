@@ -12,7 +12,7 @@ class CalculatorImpl(calculator: Calculator, val context: Context) {
     var lastKey: String? = null
     private var lastOperation: String? = null
     private var callback: Calculator? = calculator
-
+    // another comment
     private var isFirstOperation = false
     private var resetValue = false
     private var baseValue = 0.0
